@@ -126,7 +126,7 @@ header {
 
 
 
-section div div {
+section .div1 div {
 	display: inline-block;
 	padding: 20px;
 	width: 420px;
@@ -134,10 +134,19 @@ section div div {
 }
 .div1 {
 	padding: 20px;
-	border: 2px solid red;
 	width: 100%;
 }
 
+section .div2 div {
+	display: inline-block;
+	padding: 20px;
+	width: 270px;
+	margin-left: 5px;
+}
+.div2 {
+	padding: 20px;
+	width: 100%;
+}
 
 
 
